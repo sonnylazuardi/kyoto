@@ -1,6 +1,6 @@
-tempe
+kyoto
 =====
 
 serverless blogging platform
 
-![tempe](http://i.imgur.com/MdnzIpE.png)
+![kyoto](http://i655.photobucket.com/albums/uu275/sonnylazuardi/kyoto.png)
